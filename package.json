@@ -1,0 +1,26 @@
+{
+  "name": "mercana-api",
+  "version": "0.0.1",
+  "description": "A sample RESTful API for a restuarant using Node, express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arslanfarooqdev/mercana-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arslanfarooqdev/mercana-api/issues"
+  },
+  "homepage": "https://github.com/arslanfarooqdev/mercana-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.5"
+  }
+}
